@@ -1,0 +1,246 @@
+﻿Log: Id: 14468: SymInit: Symbol-SearchPath: '.;C:\வட்டு2022\PortableApps\FreeCADPortable;C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.c', symOptions: 530, UserName: 'ஐ'
+Log: Id: 14468: OS-Version: 6.2.9200 () 0x100-0x1
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\FreeCAD.exe:FreeCAD.exe (00007FF740270000), size: 155648 (result: 0), SymType: '-nosymbols-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\F', fileVersion: 0.20.1.1
+Log: Id: 14468: C:\WINDOWS\SYSTEM32\ntdll.dll:ntdll.dll (00007FFF46BF0000), size: 2064384 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\ntdll.dll', fileVersion: 6.2.19041.2130
+Log: Id: 14468: C:\WINDOWS\System32\KERNEL32.DLL:KERNEL32.DLL (00007FFF454D0000), size: 782336 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\KERNEL32.DLL', fileVersion: 6.2.19041.2364
+Log: Id: 14468: C:\WINDOWS\System32\KERNELBASE.dll:KERNELBASE.dll (00007FFF44650000), size: 2957312 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\KERNELBASE.dll', fileVersion: 6.2.19041.2364
+Log: Id: 14468: C:\WINDOWS\SYSTEM32\apphelp.dll:apphelp.dll (00007FFF3C840000), size: 593920 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\apphelp.dll', fileVersion: 6.2.19041.2075
+Log: Id: 14468: C:\WINDOWS\System32\ucrtbase.dll:ucrtbase.dll (00007FFF44AC0000), size: 1048576 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\ucrtbase.dll', fileVersion: 6.2.19041.789
+Log: Id: 14468: C:\WINDOWS\System32\SHELL32.dll:SHELL32.dll (00007FFF45880000), size: 7618560 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\SHELL32.dll', fileVersion: 6.2.19041.2311
+Log: Id: 14468: C:\WINDOWS\System32\msvcp_win.dll:msvcp_win.dll (00007FFF442E0000), size: 643072 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\msvcp_win.dll', fileVersion: 6.2.19041.789
+Log: Id: 14468: C:\WINDOWS\System32\USER32.dll:USER32.dll (00007FFF46920000), size: 1708032 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\USER32.dll', fileVersion: 6.2.19041.2311
+Log: Id: 14468: C:\WINDOWS\System32\win32u.dll:win32u.dll (00007FFF44A90000), size: 139264 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\win32u.dll', fileVersion: 6.2.19041.2364
+Log: Id: 14468: C:\WINDOWS\System32\GDI32.dll:GDI32.dll (00007FFF45690000), size: 176128 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\GDI32.dll', fileVersion: 6.2.19041.2130
+Log: Id: 14468: C:\WINDOWS\System32\gdi32full.dll:gdi32full.dll (00007FFF444F0000), size: 1110016 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\gdi32full.dll', fileVersion: 6.2.19041.2364
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\MSVCP140.dll:MSVCP140.dll (00007FFF0F6E0000), size: 577536 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\MS', fileVersion: 14.28.29910.0
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\VCRUNTIME140.dll:VCRUNTIME140.dll (00007FFF178E0000), size: 106496 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\VCRUNT', fileVersion: 14.28.29910.0
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\FreeCADBase.dll:FreeCADBase.dll (00007FFEF8690000), size: 1339392 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\FreeC'
+Log: Id: 14468: C:\WINDOWS\System32\ADVAPI32.dll:ADVAPI32.dll (00007FFF466C0000), size: 712704 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\ADVAPI32.dll', fileVersion: 6.2.19041.2130
+Log: Id: 14468: C:\WINDOWS\System32\msvcrt.dll:msvcrt.dll (00007FFF465B0000), size: 647168 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\msvcrt.dll', fileVersion: 7.0.19041.546
+Log: Id: 14468: C:\WINDOWS\System32\sechost.dll:sechost.dll (00007FFF44C90000), size: 638976 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\sechost.dll', fileVersion: 6.2.19041.1865
+Log: Id: 14468: C:\WINDOWS\System32\RPCRT4.dll:RPCRT4.dll (00007FFF45280000), size: 1200128 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\RPCRT4.dll', fileVersion: 6.2.19041.1806
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\VCRUNTIME140_1.dll:VCRUNTIME140_1.dll (00007FFF3CFD0000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\VCRUNTIM', fileVersion: 14.28.29910.0
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\FreeCADApp.dll:FreeCADApp.dll (00007FFEF55D0000), size: 3424256 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\Free'
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\python38.dll:python38.dll (00007FFEEAF90000), size: 4390912 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\py', fileVersion: 3.8.10150.1013
+Log: Id: 14468: C:\WINDOWS\System32\SHLWAPI.dll:SHLWAPI.dll (00007FFF46650000), size: 348160 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\SHLWAPI.dll', fileVersion: 6.2.19041.2075
+Log: Id: 14468: C:\WINDOWS\System32\WS2_32.dll:WS2_32.dll (00007FFF46540000), size: 438272 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\WS2_32.dll', fileVersion: 6.2.19041.546
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\Qt5Core.dll:Qt5Core.dll (00007FFEEA9C0000), size: 6053888 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\Q', fileVersion: 5.15.2.0
+Log: Id: 14468: C:\WINDOWS\System32\ole32.dll:ole32.dll (00007FFF456C0000), size: 1220608 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\ole32.dll', fileVersion: 6.2.19041.1202
+Log: Id: 14468: C:\WINDOWS\System32\combase.dll:combase.dll (00007FFF44F20000), size: 3493888 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\combase.dll', fileVersion: 6.2.19041.2311
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\boost_filesystem-vc141-mt-x64-1_67.dll:boost_filesystem-vc141-mt-x64-1_67.dll (00007FFF178B0000), size: 147456 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\boost_filesystem-vc141-mt-x6'
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\FreeCADGui.dll:FreeCADGui.dll (00007FFEE9CA0000), size: 13701120 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\Free'
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\Qt5Widgets.dll:Qt5Widgets.dll (00007FFEE9750000), size: 5509120 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\Qt5W', fileVersion: 5.15.2.0
+Log: Id: 14468: C:\WINDOWS\SYSTEM32\VERSION.dll:VERSION.dll (00007FFF36590000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\VERSION.dll', fileVersion: 6.2.19041.546
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\zlib.dll:zlib.dll (00007FFF13C30000), size: 110592 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bi', fileVersion: 1.2.11.0
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\boost_program_options-vc141-mt-x64-1_67.dll:boost_program_options-vc141-mt-x64-1_67.dll (00007FFF0F670000), size: 438272 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\boost_program_options-vc141-mt-x6'
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\boost_regex-vc141-mt-x64-1_67.dll:boost_regex-vc141-mt-x64-1_67.dll (00007FFF0F470000), size: 868352 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\boost_regex-vc141-mt-x6'
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\boost_date_time-vc141-mt-x64-1_67.dll:boost_date_time-vc141-mt-x64-1_67.dll (00007FFF13C10000), size: 69632 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\boost_date_time-vc141-mt-x6'
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\xerces-c_3_2.dll:xerces-c_3_2.dll (00007FFEE9490000), size: 2875392 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\xerces', fileVersion: 3.2.2.0
+Log: Id: 14468: C:\WINDOWS\SYSTEM32\SHFOLDER.dll:SHFOLDER.dll (00007FFF3C5F0000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\SHFOLDER.dll', fileVersion: 6.2.19041.1
+Log: Id: 14468: C:\WINDOWS\SYSTEM32\MPR.dll:MPR.dll (00007FFF0C990000), size: 118784 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MPR.dll', fileVersion: 6.2.19041.1806
+Log: Id: 14468: C:\WINDOWS\SYSTEM32\USERENV.dll:USERENV.dll (00007FFF441E0000), size: 188416 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\USERENV.dll', fileVersion: 6.2.19041.572
+Log: Id: 14468: C:\WINDOWS\SYSTEM32\NETAPI32.dll:NETAPI32.dll (00007FFF365D0000), size: 102400 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\NETAPI32.dll', fileVersion: 6.2.19041.2130
+Log: Id: 14468: C:\WINDOWS\SYSTEM32\WINMM.dll:WINMM.dll (00007FFF329B0000), size: 159744 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WINMM.dll', fileVersion: 6.2.19041.546
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\Qt5Xml.dll:Qt5Xml.dll (00007FFF10D00000), size: 221184 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\', fileVersion: 5.15.2.0
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\boost_system-vc141-mt-x64-1_67.dll:boost_system-vc141-mt-x64-1_67.dll (00007FFF3A200000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\boost_system-vc141-mt-x6'
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\MSVCP140_1.dll:MSVCP140_1.dll (00007FFF3A1B0000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\MSVC', fileVersion: 14.28.29910.0
+Log: Id: 14468: C:\WINDOWS\SYSTEM32\OPENGL32.dll:OPENGL32.dll (00007FFEF52E0000), size: 1200128 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\OPENGL32.dll', fileVersion: 6.2.19041.2193
+Log: Id: 14468: C:\WINDOWS\SYSTEM32\HID.DLL:HID.DLL (00007FFF42B20000), size: 53248 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\HID.DLL', fileVersion: 6.2.19041.546
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\Qt5Svg.dll:Qt5Svg.dll (00007FFF0F610000), size: 344064 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\', fileVersion: 5.15.2.0
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\Qt5PrintSupport.dll:Qt5PrintSupport.dll (00007FFF0F5C0000), size: 323584 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\Qt5PrintS', fileVersion: 5.15.2.0
+Log: Id: 14468: C:\WINDOWS\System32\COMDLG32.dll:COMDLG32.dll (00007FFF46AD0000), size: 892928 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\COMDLG32.dll', fileVersion: 6.2.19041.1806
+Log: Id: 14468: C:\WINDOWS\System32\shcore.dll:shcore.dll (00007FFF45420000), size: 708608 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\shcore.dll', fileVersion: 6.2.19041.1865
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\Qt5WinExtras.dll:Qt5WinExtras.dll (00007FFF0F3C0000), size: 249856 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\Qt5Win', fileVersion: 5.15.2.0
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\pyside2.cp38-win_amd64.dll:pyside2.cp38-win_amd64.dll (00007FFF0F390000), size: 172032 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\pyside2.cp38-win'
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\shiboken2.cp38-win_amd64.dll:shiboken2.cp38-win_amd64.dll (00007FFF0F310000), size: 495616 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\shiboken2.cp38-win'
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\Qt5Network.dll:Qt5Network.dll (00007FFEECE70000), size: 1355776 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\Qt5N', fileVersion: 5.15.2.0
+Log: Id: 14468: C:\WINDOWS\System32\CRYPT32.dll:CRYPT32.dll (00007FFF44930000), size: 1400832 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\CRYPT32.dll', fileVersion: 6.2.19041.1889
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\Qt5Gui.dll:Qt5Gui.dll (00007FFEE8DD0000), size: 7057408 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\', fileVersion: 5.15.2.0
+Log: Id: 14468: C:\WINDOWS\SYSTEM32\UxTheme.dll:UxTheme.dll (00007FFF3DDD0000), size: 647168 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\UxTheme.dll', fileVersion: 6.2.19041.2193
+Log: Id: 14468: C:\WINDOWS\SYSTEM32\dwmapi.dll:dwmapi.dll (00007FFF410A0000), size: 192512 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dwmapi.dll', fileVersion: 6.2.19041.746
+Log: Id: 14468: C:\WINDOWS\SYSTEM32\GLU32.dll:GLU32.dll (00007FFF0EAD0000), size: 180224 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\GLU32.dll', fileVersion: 6.2.19041.2193
+Log: Id: 14468: C:\WINDOWS\SYSTEM32\WINSPOOL.DRV:WINSPOOL.DRV (00007FFF0F820000), size: 622592 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WINSPOOL.DRV', fileVersion: 6.2.19041.2311
+Log: Id: 14468: C:\WINDOWS\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_5.82.19041.1110_none_792d1c772443f647\COMCTL32.dll:COMCTL32.dll (00007FFF10F70000), size: 720896 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_5.82.19041.1110_none_792d1c772443f647\COMCTL32.dll', fileVersion: 5.82.19041.1110
+Log: Id: 14468: C:\WINDOWS\SYSTEM32\DNSAPI.dll:DNSAPI.dll (00007FFF43780000), size: 827392 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\DNSAPI.dll', fileVersion: 6.2.19041.1865
+Log: Id: 14468: C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL:IPHLPAPI.DLL (00007FFF43740000), size: 241664 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL', fileVersion: 6.2.19041.1865
+Log: Id: 14468: C:\WINDOWS\SYSTEM32\d3d11.dll:d3d11.dll (00007FFF41F60000), size: 2502656 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\d3d11.dll', fileVersion: 6.2.19041.2075
+Log: Id: 14468: C:\WINDOWS\SYSTEM32\dxgi.dll:dxgi.dll (00007FFF42CC0000), size: 995328 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dxgi.dll', fileVersion: 6.2.19041.2311
+Log: Id: 14468: C:\WINDOWS\SYSTEM32\NETUTILS.DLL:NETUTILS.DLL (00007FFF43850000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\NETUTILS.DLL', fileVersion: 6.2.19041.546
+Log: Id: 14468: C:\WINDOWS\SYSTEM32\SRVCLI.DLL:SRVCLI.DLL (00007FFF36100000), size: 163840 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\SRVCLI.DLL', fileVersion: 6.2.19041.1645
+Log: Id: 14468: C:\WINDOWS\SYSTEM32\CRYPTBASE.DLL:CRYPTBASE.DLL (00007FFF43C90000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\CRYPTBASE.DLL', fileVersion: 6.2.19041.546
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\Qt5Qml.dll:Qt5Qml.dll (00007FFEE8A50000), size: 3608576 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\', fileVersion: 5.15.2.0
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\Coin4.dll:Coin4.dll (00007FFEE7460000), size: 6365184 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin', fileVersion: 4.0.1.0
+Log: Id: 14468: C:\WINDOWS\System32\IMM32.DLL:IMM32.DLL (00007FFF45650000), size: 204800 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\IMM32.DLL', fileVersion: 6.2.19041.2193
+Log: Id: 14468: C:\WINDOWS\System32\NSI.dll:NSI.dll (00007FFF453B0000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\NSI.dll', fileVersion: 6.2.19041.610
+Log: Id: 14468: C:\WINDOWS\SYSTEM32\windows.storage.dll:windows.storage.dll (00007FFF42380000), size: 7938048 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\windows.storage.dll', fileVersion: 6.2.19041.2311
+Log: Id: 14468: C:\WINDOWS\SYSTEM32\Wldp.dll:Wldp.dll (00007FFF43D40000), size: 196608 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\Wldp.dll', fileVersion: 6.2.19041.2311
+Log: Id: 14468: C:\WINDOWS\SYSTEM32\profapi.dll:profapi.dll (00007FFF44220000), size: 126976 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\profapi.dll', fileVersion: 6.2.19041.844
+Log: Id: 14468: C:\WINDOWS\SYSTEM32\CRYPTSP.dll:CRYPTSP.dll (00007FFF43CA0000), size: 98304 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\CRYPTSP.dll', fileVersion: 6.2.19041.546
+Log: Id: 14468: C:\WINDOWS\system32\rsaenh.dll:rsaenh.dll (00007FFF43350000), size: 212992 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\rsaenh.dll', fileVersion: 6.2.19041.1052
+Log: Id: 14468: C:\WINDOWS\System32\bcrypt.dll:bcrypt.dll (00007FFF444C0000), size: 159744 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\bcrypt.dll', fileVersion: 6.2.19041.1023
+Log: Id: 14468: C:\WINDOWS\System32\bcryptPrimitives.dll:bcryptPrimitives.dll (00007FFF44380000), size: 532480 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\bcryptPrimitives.dll', fileVersion: 6.2.19041.1415
+Log: Id: 14468: C:\WINDOWS\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FFF41D50000), size: 1982464 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dbghelp.dll', fileVersion: 6.2.19041.867
+Log: Id: 14468: C:\WINDOWS\SYSTEM32\dbgcore.DLL:dbgcore.DLL (00007FFF25180000), size: 217088 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dbgcore.DLL', fileVersion: 6.2.19041.2311
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\platforms\qwindows.dll:qwindows.dll (00007FFEE88E0000), size: 1495040 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\platforms\qw', fileVersion: 5.15.2.0
+Log: Id: 14468: C:\WINDOWS\System32\OLEAUT32.dll:OLEAUT32.dll (00007FFF44E50000), size: 839680 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\OLEAUT32.dll', fileVersion: 6.2.19041.985
+Log: Id: 14468: C:\WINDOWS\SYSTEM32\WTSAPI32.dll:WTSAPI32.dll (00007FFF3BDD0000), size: 81920 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WTSAPI32.dll', fileVersion: 6.2.19041.546
+Log: Id: 14468: C:\WINDOWS\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (00007FFF42B30000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\kernel.appcore.dll', fileVersion: 6.2.19041.546
+Log: Id: 14468: C:\WINDOWS\SYSTEM32\powrprof.dll:powrprof.dll (00007FFF43860000), size: 307200 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\powrprof.dll', fileVersion: 6.2.19041.546
+Log: Id: 14468: C:\WINDOWS\SYSTEM32\UMPDC.dll:UMPDC.dll (00007FFF43720000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\UMPDC.dll'
+Log: Id: 14468: C:\WINDOWS\System32\clbcatq.dll:clbcatq.dll (00007FFF455A0000), size: 716800 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\clbcatq.dll', fileVersion: 2001.12.10941.16384
+Log: Id: 14468: C:\Windows\System32\AppXDeploymentClient.dll:AppXDeploymentClient.dll (00007FFF37F50000), size: 1011712 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\AppXDeploymentClient.dll', fileVersion: 6.2.19041.2075
+Log: Id: 14468: C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_0e09a310807a93a8\igxelpicd64.dll:igxelpicd64.dll (00007FFEE63B0000), size: 17477632 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_0e09a310807a93a8\igxelpicd64.dll', fileVersion: 31.0.101.3616
+Log: Id: 14468: C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_0e09a310807a93a8\igdml64.dll:igdml64.dll (00007FFEE87B0000), size: 1200128 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_0e09a310807a93a8\igdml64.dll', fileVersion: 31.0.101.3616
+Log: Id: 14468: C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_0e09a310807a93a8\igdgmm64.dll:igdgmm64.dll (00007FFF313D0000), size: 4268032 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_0e09a310807a93a8\igdgmm64.dll', fileVersion: 31.0.101.3616
+Log: Id: 14468: C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_0e09a310807a93a8\igc64.dll:igc64.dll (00007FFF2CEE0000), size: 72261632 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_0e09a310807a93a8\igc64.dll', fileVersion: 31.0.101.3616
+Log: Id: 14468: C:\WINDOWS\system32\d3d9.dll:d3d9.dll (00007FFEFC1C0000), size: 1892352 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\d3d9.dll', fileVersion: 6.2.19041.2311
+Log: Id: 14468: C:\WINDOWS\SYSTEM32\dxcore.dll:dxcore.dll (00007FFF3BD60000), size: 241664 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dxcore.dll', fileVersion: 6.2.19041.546
+Log: Id: 14468: C:\WINDOWS\System32\cfgmgr32.dll:cfgmgr32.dll (00007FFF44600000), size: 319488 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\cfgmgr32.dll', fileVersion: 6.2.19041.1620
+Log: Id: 14468: C:\WINDOWS\System32\SETUPAPI.dll:SETUPAPI.dll (00007FFF45FD0000), size: 4620288 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\SETUPAPI.dll', fileVersion: 6.2.19041.2193
+Log: Id: 14468: C:\WINDOWS\SYSTEM32\DEVOBJ.dll:DEVOBJ.dll (00007FFF44090000), size: 180224 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\DEVOBJ.dll', fileVersion: 6.2.19041.1620
+Log: Id: 14468: C:\WINDOWS\System32\WINTRUST.dll:WINTRUST.dll (00007FFF44BC0000), size: 430080 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\WINTRUST.dll', fileVersion: 6.2.19041.2311
+Log: Id: 14468: C:\WINDOWS\SYSTEM32\MSASN1.dll:MSASN1.dll (00007FFF43ED0000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MSASN1.dll', fileVersion: 6.2.19041.2251
+Log: Id: 14468: C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_0e09a310807a93a8\igd12dxva64.dll:igd12dxva64.dll (00007FFEB4320000), size: 87085056 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_0e09a310807a93a8\igd12dxva64.dll', fileVersion: 31.0.101.3616
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\styles\qwindowsvistastyle.dll:qwindowsvistastyle.dll (00007FFF0E9E0000), size: 155648 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\styles\qwindowsvist', fileVersion: 5.15.2.0
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\imageformats\qgif.dll:qgif.dll (00007FFF39E00000), size: 53248 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\imageformat', fileVersion: 5.15.2.0
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\imageformats\qicns.dll:qicns.dll (00007FFF38FD0000), size: 61440 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\imageformats', fileVersion: 5.15.2.0
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\imageformats\qico.dll:qico.dll (00007FFF38FA0000), size: 53248 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\imageformat', fileVersion: 5.15.2.0
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\imageformats\qjpeg.dll:qjpeg.dll (00007FFEFC950000), size: 438272 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\imageformats', fileVersion: 5.15.2.0
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\imageformats\qsvg.dll:qsvg.dll (00007FFF37DC0000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\imageformat', fileVersion: 5.15.2.0
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\imageformats\qtga.dll:qtga.dll (00007FFF35C20000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\imageformat', fileVersion: 5.15.2.0
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\imageformats\qtiff.dll:qtiff.dll (00007FFEFC730000), size: 405504 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\imageformats', fileVersion: 5.15.2.0
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\imageformats\qwbmp.dll:qwbmp.dll (00007FFF319E0000), size: 45056 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\imageformats', fileVersion: 5.15.2.0
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\imageformats\qwebp.dll:qwebp.dll (00007FFEF8600000), size: 536576 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\imageformats', fileVersion: 5.15.2.0
+Log: Id: 14468: C:\WINDOWS\system32\dwrite.dll:dwrite.dll (00007FFF419A0000), size: 2617344 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\dwrite.dll', fileVersion: 6.2.19041.1566
+Log: Id: 14468: C:\WINDOWS\System32\MSCTF.dll:MSCTF.dll (00007FFF44D30000), size: 1134592 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\MSCTF.dll', fileVersion: 6.2.19041.2193
+Log: Id: 14468: C:\WINDOWS\system32\dataexchange.dll:dataexchange.dll (00007FFF27280000), size: 253952 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\dataexchange.dll', fileVersion: 6.2.19041.1387
+Log: Id: 14468: C:\WINDOWS\system32\dcomp.dll:dcomp.dll (00007FFF3B920000), size: 1978368 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\dcomp.dll', fileVersion: 6.2.19041.2075
+Log: Id: 14468: C:\WINDOWS\system32\twinapi.appcore.dll:twinapi.appcore.dll (00007FFF38C20000), size: 2097152 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\twinapi.appcore.dll', fileVersion: 6.2.19041.1865
+Log: Id: 14468: C:\WINDOWS\SYSTEM32\textinputframework.dll:textinputframework.dll (00007FFF34110000), size: 1019904 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\textinputframework.dll', fileVersion: 6.2.19041.2075
+Log: Id: 14468: C:\WINDOWS\System32\CoreUIComponents.dll:CoreUIComponents.dll (00007FFF3B530000), size: 3530752 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\CoreUIComponents.dll', fileVersion: 6.2.19041.546
+Log: Id: 14468: C:\WINDOWS\SYSTEM32\ntmarta.dll:ntmarta.dll (00007FFF43470000), size: 208896 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\ntmarta.dll', fileVersion: 6.2.19041.546
+Log: Id: 14468: C:\WINDOWS\System32\CoreMessaging.dll:CoreMessaging.dll (00007FFF3C2C0000), size: 991232 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\CoreMessaging.dll', fileVersion: 6.2.19041.2193
+Log: Id: 14468: C:\WINDOWS\SYSTEM32\wintypes.dll:wintypes.dll (00007FFF3CD60000), size: 1392640 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\wintypes.dll', fileVersion: 6.2.19041.2311
+Log: Id: 14468: C:\WINDOWS\system32\Oleacc.dll:Oleacc.dll (00007FFF2BF40000), size: 417792 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\Oleacc.dll', fileVersion: 7.2.19041.746
+Log: Id: 14468: C:\WINDOWS\system32\UIAutomationCore.dll:UIAutomationCore.dll (00007FFF0FE30000), size: 3100672 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\UIAutomationCore.dll', fileVersion: 7.2.19041.1741
+Log: Id: 14468: C:\WINDOWS\SYSTEM32\PROPSYS.dll:PROPSYS.dll (00007FFF40DD0000), size: 1007616 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\PROPSYS.dll', fileVersion: 7.0.19041.1741
+Log: Id: 14468: C:\WINDOWS\SYSTEM32\sxs.dll:sxs.dll (00007FFF440F0000), size: 700416 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\sxs.dll', fileVersion: 6.2.19041.2364
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\python3.DLL:python3.DLL (00007FFF318B0000), size: 61440 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\p', fileVersion: 3.8.10150.1013
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\lib\site-packages\pivy\_coin.cp38-win_amd64.pyd:_coin.cp38-win_amd64.pyd (00007FFEE5270000), size: 14835712 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\lib\site-packages\pivy\_coin.cp38-win'
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\DLLs\_bz2.pyd:_bz2.pyd (00007FFF11320000), size: 98304 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\DLL', fileVersion: 3.8.10150.1013
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\DLLs\_lzma.pyd:_lzma.pyd (00007FFF0AE00000), size: 172032 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\DLLs', fileVersion: 3.8.10150.1013
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\DLLs\_hashlib.pyd:_hashlib.pyd (00007FFF31870000), size: 57344 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\DLLs\_h', fileVersion: 3.8.10150.1013
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\DLLs\libcrypto-1_1.dll:libcrypto-1_1.dll (00007FFEE4F20000), size: 3440640 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\DLLs\libcryp', fileVersion: 1.1.1.11
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\lib\site-packages\shiboken2\shiboken2.cp38-win_amd64.pyd:shiboken2.cp38-win_amd64.pyd (00007FFF2C750000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\lib\site-packages\shiboken2\shiboken2.cp38-win'
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\lib\site-packages\PySide2\QtGui.cp38-win_amd64.pyd:QtGui.cp38-win_amd64.pyd (00007FFEE4B70000), size: 3829760 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\lib\site-packages\PySide2\QtGui.cp38-win'
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\lib\site-packages\PySide2\QtCore.cp38-win_amd64.pyd:QtCore.cp38-win_amd64.pyd (00007FFEE4520000), size: 3473408 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\lib\site-packages\PySide2\QtCore.cp38-win'
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\lib\site-packages\PySide2\QtWidgets.cp38-win_amd64.pyd:QtWidgets.cp38-win_amd64.pyd (00007FFEE3F10000), size: 6332416 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\lib\site-packages\PySide2\QtWidgets.cp38-win'
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\DLLs\_queue.pyd:_queue.pyd (00007FFF2C5E0000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\DLLs\', fileVersion: 3.8.10150.1013
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\DLLs\_ctypes.pyd:_ctypes.pyd (00007FFF07450000), size: 139264 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\DLLs\_', fileVersion: 3.8.10150.1013
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\DLLs\libffi-7.dll:libffi-7.dll (00007FFF2C140000), size: 45056 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\DLLs\li'
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\lib\site-packages\PySide2\QtNetwork.cp38-win_amd64.pyd:QtNetwork.cp38-win_amd64.pyd (00007FFEF39E0000), size: 962560 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\lib\site-packages\PySide2\QtNetwork.cp38-win'
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\DLLs\_socket.pyd:_socket.pyd (00007FFF0ADE0000), size: 90112 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\DLLs\_', fileVersion: 3.8.10150.1013
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\DLLs\select.pyd:select.pyd (00007FFF2BAA0000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\DLLs\', fileVersion: 3.8.10150.1013
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\DLLs\_ssl.pyd:_ssl.pyd (00007FFEFC920000), size: 159744 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\DLL', fileVersion: 3.8.10150.1013
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\DLLs\libssl-1_1.dll:libssl-1_1.dll (00007FFEF83B0000), size: 704512 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\DLLs\libs', fileVersion: 1.1.1.11
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\DLLs\_asyncio.pyd:_asyncio.pyd (00007FFF07430000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\DLLs\_a', fileVersion: 3.8.10150.1013
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\DLLs\_overlapped.pyd:_overlapped.pyd (00007FFF2BA50000), size: 57344 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\DLLs\_over', fileVersion: 3.8.10150.1013
+Log: Id: 14468: C:\WINDOWS\system32\mswsock.dll:mswsock.dll (00007FFF43AA0000), size: 434176 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\mswsock.dll', fileVersion: 6.2.19041.546
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\lib\site-packages\PySide2\QtWebEngineWidgets.cp38-win_amd64.pyd:QtWebEngineWidgets.cp38-win_amd64.pyd (00007FFEFC050000), size: 323584 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\lib\site-packages\PySide2\QtWebEngineWidgets.cp38-win'
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\Qt5WebEngineWidgets.dll:Qt5WebEngineWidgets.dll (00007FFEF85C0000), size: 258048 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\Qt5WebEngineW', fileVersion: 5.15.2.0
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\Qt5QuickWidgets.dll:Qt5QuickWidgets.dll (00007FFEFE650000), size: 90112 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\Qt5QuickW', fileVersion: 5.15.2.0
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\Qt5Quick.dll:Qt5Quick.dll (00007FFEE3B10000), size: 4161536 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\Qt', fileVersion: 5.15.2.0
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\Qt5WebEngineCore.dll:Qt5WebEngineCore.dll (00007FFEAE040000), size: 103616512 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\Qt5WebEngi', fileVersion: 5.15.2.0
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\Qt5QmlModels.dll:Qt5QmlModels.dll (00007FFEF5BA0000), size: 446464 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\Qt5Qml', fileVersion: 5.15.2.0
+Log: Id: 14468: C:\WINDOWS\system32\ncrypt.dll:ncrypt.dll (00007FFF43DB0000), size: 159744 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\ncrypt.dll', fileVersion: 6.2.19041.662
+Log: Id: 14468: C:\WINDOWS\system32\Secur32.dll:Secur32.dll (00007FFF360F0000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\Secur32.dll', fileVersion: 6.2.19041.546
+Log: Id: 14468: C:\WINDOWS\system32\WINHTTP.dll:WINHTTP.dll (00007FFF3C9A0000), size: 1097728 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\WINHTTP.dll', fileVersion: 6.2.19041.2193
+Log: Id: 14468: C:\WINDOWS\system32\dxva2.dll:dxva2.dll (00007FFEF3170000), size: 147456 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\dxva2.dll', fileVersion: 6.2.19041.1
+Log: Id: 14468: C:\WINDOWS\system32\USP10.dll:USP10.dll (00007FFEFC900000), size: 102400 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\USP10.dll', fileVersion: 6.2.19041.546
+Log: Id: 14468: C:\WINDOWS\system32\dhcpcsvc.DLL:dhcpcsvc.DLL (00007FFF3AFE0000), size: 118784 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\dhcpcsvc.DLL', fileVersion: 6.2.19041.2130
+Log: Id: 14468: C:\WINDOWS\system32\urlmon.dll:urlmon.dll (00007FFF2CCF0000), size: 2019328 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\urlmon.dll', fileVersion: 11.0.19041.2251
+Log: Id: 14468: C:\WINDOWS\system32\iertutil.dll:iertutil.dll (00007FFF35770000), size: 2822144 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\iertutil.dll', fileVersion: 11.0.19041.2130
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\Qt5WebChannel.dll:Qt5WebChannel.dll (00007FFEFC870000), size: 143360 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\Qt5WebC', fileVersion: 5.15.2.0
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\Qt5Positioning.dll:Qt5Positioning.dll (00007FFEF5B50000), size: 327680 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\Qt5Posit', fileVersion: 5.15.2.0
+Log: Id: 14468: C:\WINDOWS\system32\SSPICLI.DLL:SSPICLI.DLL (00007FFF441A0000), size: 204800 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\SSPICLI.DLL', fileVersion: 6.2.19041.2130
+Log: Id: 14468: C:\WINDOWS\system32\NTASN1.dll:NTASN1.dll (00007FFF43D70000), size: 241664 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\system32\NTASN1.dll', fileVersion: 6.2.19041.546
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\lib\site-packages\PySide2\QtWebChannel.cp38-win_amd64.pyd:QtWebChannel.cp38-win_amd64.pyd (00007FFEF85A0000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\lib\site-packages\PySide2\QtWebChannel.cp38-win'
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\lib\site-packages\PySide2\QtWebEngineCore.cp38-win_amd64.pyd:QtWebEngineCore.cp38-win_amd64.pyd (00007FFEF8580000), size: 118784 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\lib\site-packages\PySide2\QtWebEngineCore.cp38-win'
+Log: Id: 14468: C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\lib\site-packages\PySide2\QtPrintSupport.cp38-win_amd64.pyd:QtPrintSupport.cp38-win_amd64.pyd (00007FFEEC3E0000), size: 307200 (result: 0), SymType: '-exported-', PDB: 'C:\வட்டு2022\PortableApps\FreeCADPortable\App\FreeCAD\bin\lib\site-packages\PySide2\QtPrintSupport.cp38-win'
+Log: Id: 14468: ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFEE9787472)
+Log: Id: 14468: 00007FFEE9787472 (Qt5Widgets): (filename not available): QWidgetPrivate::drawWidget
+Log: Id: 14468: ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFEE976F7C6)
+Log: Id: 14468: 00007FFEE976F7C6 (Qt5Widgets): (filename not available): QWidgetPrivate::moveRect
+Log: Id: 14468: ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFEE978822F)
+Log: Id: 14468: 00007FFEE978822F (Qt5Widgets): (filename not available): QWidget::event
+Log: Id: 14468: ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFEE9764990)
+Log: Id: 14468: 00007FFEE9764990 (Qt5Widgets): (filename not available): QApplicationPrivate::notify_helper
+Log: Id: 14468: ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFEE9763A13)
+Log: Id: 14468: 00007FFEE9763A13 (Qt5Widgets): (filename not available): QApplication::notify
+Log: Id: 14468: ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFEE9D23B59)
+Log: Id: 14468: 00007FFEE9D23B59 (FreeCADGui): (filename not available): Gui::ExpressionTextEdit::textChanged2
+Log: Id: 14468: ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFEEAB92ACA)
+Log: Id: 14468: 00007FFEEAB92ACA (Qt5Core): (filename not available): QCoreApplication::notifyInternal2
+Log: Id: 14468: ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFEE97705A6)
+Log: Id: 14468: 00007FFEE97705A6 (Qt5Widgets): (filename not available): QWidgetPrivate::scrollRect
+Log: Id: 14468: ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFEE976B022)
+Log: Id: 14468: 00007FFEE976B022 (Qt5Widgets): (filename not available): QApplication::windowIcon
+Log: Id: 14468: ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFEE9790C14)
+Log: Id: 14468: 00007FFEE9790C14 (Qt5Widgets): (filename not available): QWidget::repaint
+Log: Id: 14468: ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFEE98D25DB)
+Log: Id: 14468: 00007FFEE98D25DB (Qt5Widgets): (filename not available): QSplashScreen::showMessage
+Log: Id: 14468: ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFEEA03028A)
+Log: Id: 14468: 00007FFEEA03028A (FreeCADGui): (filename not available): Gui::Dialog::LicenseView::~LicenseView
+Log: Id: 14468: ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFEF86BA6CC)
+Log: Id: 14468: 00007FFEF86BA6CC (FreeCADBase): (filename not available): Base::ConsoleSingleton::NotifyLog
+Log: Id: 14468: ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFEF86BA20E)
+Log: Id: 14468: 00007FFEF86BA20E (FreeCADBase): (filename not available): Base::ConsoleSingleton::Log
+Log: Id: 14468: ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFEF86B8EB5)
+Log: Id: 14468: 00007FFEF86B8EB5 (FreeCADBase): (filename not available): Base::ConsoleSingleton::sPyLog
+Log: Id: 14468: ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFEEAFD3D42)
+Log: Id: 14468: 00007FFEEAFD3D42 (python38): (filename not available): PyCFunction_Call
+Log: Id: 14468: ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFEEAFB5C78)
+Log: Id: 14468: 00007FFEEAFB5C78 (python38): (filename not available): PyEval_EvalFrameDefault
+Log: Id: 14468: ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFEEAFAE618)
+Log: Id: 14468: 00007FFEEAFAE618 (python38): (filename not available): PyEval_EvalCodeWithName
+Log: Id: 14468: ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFEEAFB4A7C)
+Log: Id: 14468: 00007FFEEAFB4A7C (python38): (filename not available): PyEval_EvalFrameDefault
+Log: Id: 14468: ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFEEAFAE618)
+Log: Id: 14468: 00007FFEEAFAE618 (python38): (filename not available): PyEval_EvalCodeWithName
+Log: Id: 14468: ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFEEAFB4A7C)
+Log: Id: 14468: 00007FFEEAFB4A7C (python38): (filename not available): PyEval_EvalFrameDefault
+Log: Id: 14468: ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFEEAFAE618)
+Log: Id: 14468: 00007FFEEAFAE618 (python38): (filename not available): PyEval_EvalCodeWithName
+Log: Id: 14468: ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFEEAFC315B)
+Log: Id: 14468: 00007FFEEAFC315B (python38): (filename not available): PyEval_EvalCodeEx
+Log: Id: 14468: ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFEEAFC30B9)
+Log: Id: 14468: 00007FFEEAFC30B9 (python38): (filename not available): PyEval_EvalCode
+Log: Id: 14468: ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFEEAFC2AC6)
+Log: Id: 14468: 00007FFEEAFC2AC6 (python38): (filename not available): PyArena_New
+Log: Id: 14468: ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFEEAFC2A55)
+Log: Id: 14468: 00007FFEEAFC2A55 (python38): (filename not available): PyArena_New
+Log: Id: 14468: ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFEEAFC274D)
+Log: Id: 14468: 00007FFEEAFC274D (python38): (filename not available): PyRun_StringFlags
+Log: Id: 14468: ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFEF86D4A91)
+Log: Id: 14468: 00007FFEF86D4A91 (FreeCADBase): (filename not available): Base::InterpreterSingleton::runString
+Log: Id: 14468: ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFEE9CD6755)
+Log: Id: 14468: 00007FFEE9CD6755 (FreeCADGui): (filename not available): Gui::Application::runInitGuiScript
+Log: Id: 14468: ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFEE9CD566E)
+Log: Id: 14468: 00007FFEE9CD566E (FreeCADGui): (filename not available): Gui::Application::runApplication
+Log: Id: 14468: ERROR: SymGetSymFromAddr64, GetLastError: 487 (Address: 00007FF740273F68)
+Log: Id: 14468: ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FF740273F68)
+Log: Id: 14468: 00007FF740273F68 (FreeCAD): (filename not available): (function-name not available)
+Log: Id: 14468: ERROR: SymGetSymFromAddr64, GetLastError: 487 (Address: 00007FF740275287)
+Log: Id: 14468: ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FF740275287)
+Log: Id: 14468: 00007FF740275287 (FreeCAD): (filename not available): (function-name not available)
+Log: Id: 14468: ERROR: SymGetSymFromAddr64, GetLastError: 487 (Address: 00007FF740274836)
+Log: Id: 14468: ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FF740274836)
+Log: Id: 14468: 00007FF740274836 (FreeCAD): (filename not available): (function-name not available)
+Log: Id: 14468: ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFF454E7614)
+Log: Id: 14468: 00007FFF454E7614 (KERNEL32): (filename not available): BaseThreadInitThunk
+Log: Id: 14468: ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFF46C426A1)
+Log: Id: 14468: 00007FFF46C426A1 (ntdll): (filename not available): RtlUserThreadStart
+Log: *** Unhandled Exception!
+Log:    ExpCode: 0xC0000005
+Log:    ExpFlags: 0
+Log:    ExpAddress: 0xE9787472

@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: gitpy
+Version: 0.0.5
+Summary: A Python wrapper for git
+Home-page: https://github.com/filiptronicek/gitpy
+Author: Filip Troníček
+Author-email: filip@trnck.dev
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# Gitpy
+ A Python wrapper for git
+
+This tool can be used for:
+* Creating automatic commits in Python
+* Speeding up your workflow
+* Keeping everything up to date on all devices with the repo
+
+## Setup
+`pip install gitpy`
+
+## Sample usage
+```python
+from gitpy import commitAdd, push
+
+commitAdd("File updates")
+push()
+```
+
